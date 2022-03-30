@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.table {
+  box-sizing: border-box;
+  overflow-x: auto;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 8px;
+}
